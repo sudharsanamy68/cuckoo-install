@@ -1,0 +1,12 @@
+# Host os is ubuntu 18 guest os is win7 ultimate
+
+# Tt neccessary to install python 2.27
+sudo apt install python2.27 python-pip
+# The supported verison of m2crypto
+pip install m2crypto==0.30.1
+
+# To install nano for creating file in terminal
+sudo apt-get install vim nano
+
+# Windows 7 .iso drive link
+https://drive.google.com/file/d/18olwC2mHdMrqO3GU5Oik_qgt1aJ0zhYN/view?usp=sharing
